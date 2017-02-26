@@ -1,6 +1,6 @@
 # This is a convolution neural network based on AlexNet and VGGNet to classify <a href="http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset">traffic signs.</a>
 
-
+Checkout the <a href="https://github.com/neerajdixit/Traffic-Sign-classifier-with-Deep-Learning/blob/master/Traffic_Sign_Classifier.ipynb">notebook</a> for code and explanation
 # Architecture
 
 ![Alt text](convnet_architecture.jpg?raw=true "Architecture")
