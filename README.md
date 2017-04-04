@@ -14,7 +14,7 @@ Python 3.5 and the following Python libraries:
 - [SciPy](https://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/)
 - [TensorFlow](http://tensorflow.org)
-- [Keras] (https://keras.io)
+- [Keras](https://keras.io)
 - [Matplotlib](http://matplotlib.org/)
 - [Pandas](http://pandas.pydata.org/)
 
